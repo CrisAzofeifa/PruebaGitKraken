@@ -1,0 +1,3 @@
+/home/cris/CLionProjects/TrabajoExtraclaseDatos2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/cris/CLionProjects/TrabajoExtraclaseDatos2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/cris/CLionProjects/TrabajoExtraclaseDatos2/cmake-build-debug/CMakeFiles/TrabajoExtraclaseDatos2.dir
